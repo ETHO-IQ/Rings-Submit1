@@ -1,0 +1,28 @@
+- - apply_xv8wh
+  - questions:
+      - label: ما هو أسمك الحقيقي
+        type: short
+      - label: كم يبلغ عمرك ؟
+        type: short
+      - label: هل ستحترم القوانين وتلتزم بالشروط والضوابط ؟
+        type: short
+      - label: هل كنت إداري سابق في سيرفرات أخرى ؟
+        type: short
+      - label: ما هي جنسيتك ؟ وما هو البلد الذي تسكن به ؟
+        type: short
+    name: تقديم على الإدارة
+    channellogId: "1003237930304811038"
+- - apply_xla
+  - questions:
+      - label: ما هو أسمك الحقيقي ؟
+        type: short
+      - label: ما هو تأريخ ميلادك ؟ (السنة\الشهر\اليوم)
+        type: short
+      - label: هل كنت عضواً سابقاً في فريق آخر ؟
+        type: short
+      - label: كم المدة الي تقضيها على الديسكورد ؟
+        type: short
+      - label: هل تتعهد بأنك ستحترم القوانين وتلتزم بها ؟
+        type: short
+    name: تقديم على عضوية في الفريق
+    channellogId: "1015930540181958666"
